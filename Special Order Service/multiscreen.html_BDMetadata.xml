@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 8">
+<document-info>
+	<title></title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project </keywords>
+	<view-link href="multiscreen.html?slide={position}" href-swf="Special Order Service.swf?slide={position}" href-html5="multiscreen.html?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title>Introduction</title>
+
+	<content>
+	<text>Creating A Special OrderFrom A Work Order</text>
+</content>
+
+	<related-content>Hello and welcome to this HDDS, training video on creating a special order from a work order.
+This training module can be easily navigated using the Table of Contents located on the left hand side of the screen.  You may click a topic at any time to advance to that section or allow the training to play through automatically.
+
+If you would like to replay a slide, hit the back button on the play bar.
+
+Should you wish to mute the audio on this training module, please click the speaker button on the bottom right; Hello and welcome to this HDDS, training video on creating a special order from a work order.
+This training module can be easily navigated using the Table of Contents located on the left hand side of the screen.  You may click a topic at any time to advance to that section or allow the training to play through automatically.
+
+If you would like to replay a slide, hit the back button on the play bar.
+
+Should you wish to mute the audio on this training module, please click the speaker button on the bottom right</related-content>
+</section>
+<section type="slide" position="2">
+	<title>Slide 1</title>
+
+	<content></content>
+
+	<related-content>The following video demonstrates TALONS service process to place a special order.  Upon completion of this video you will have a basic understanding of how to create, inquire and deliver a special order to a work order.</related-content>
+</section>
+<section type="slide" position="3">
+	<title>Creating A Special Order</title>
+
+	<content></content>
+
+	<related-content>In this demonstration, we will create a special order for our loyal customer, Garth. Garth needs to replace  his front fender after a minor accident.  We need to special order the fender. The following demonstrates the steps for placing the special order as part of the work order. </related-content>
+</section>
+<section type="slide" position="4">
+	<title></title>
+
+	<content></content>
+
+	<related-content>the work order is created according to your normal dealership procedures.When adding parts if the part is not in stock you will be prompted to place a special order. Lets take a look at the process. </related-content>
+</section>
+<section type="slide" position="5">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="6">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="7">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="8">
+	<title></title>
+
+	<content>
+	<text></text>
+</content>
+
+	<related-content>when we enter the part number and press tab bat</related-content>
+</section>
+<section type="slide" position="9">
+	<title></title>
+
+	<content></content>
+
+	<related-content>notice that the on hand quinity is zero so when we click OK </related-content>
+</section>
+<section type="slide" position="10">
+	<title></title>
+
+	<content></content>
+
+	<related-content>we are prompted with the option menu. to special order the part just click  Create Special Order Button</related-content>
+</section>
+<section type="slide" position="11">
+	<title></title>
+
+	<content></content>
+
+	<related-content>you can see this part was added to the work order parts list with the S indicating it is a special order order item.</related-content>
+</section>
+<section type="slide" position="12">
+	<title></title>
+
+	<content></content>
+
+	<related-content>The part has now been placed on a  Purchase Request that will be ordered by your parts department.</related-content>
+</section>
+<section type="slide" position="13">
+	<title>Inquiry About Special Order</title>
+
+	<content></content>
+
+	<related-content>After a couple of days have passed  we would like to check if the special order part has come in so in TALON. </related-content>
+</section>
+<section type="slide" position="14">
+	<title></title>
+
+	<content></content>
+
+	<related-content>So we will search the browse customer screen for gaths costimer record </related-content>
+</section>
+<section type="slide" position="15">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="16">
+	<title></title>
+
+	<content>
+	<text>‘E’ (Undelivered eCommerce Item)  A green letter ‘E’ indicates there are undelivered eCommerce items for this customer.‘P’ (Undelivered Prepaid Item)  A green letter ‘P’ indicates there are undelivered prepaid items for this customer.‘C’ (Committed)  A green letter ‘C’ indicates a special order has already been fully committed to the customer.‘C’ (Committed)  A yellow letter ‘C’ indicates a special order item has been partially committed to the customer.‘A’ (Available)  A yellow letter ‘A’ indicates there is sufficient quantity on hand to fill this special order from stock.‘N’ (Not Available)  A red letter ‘N’ indicates there are no committed special orders for this customer and there is insufficient quantity on hand to fill the order from stock.‘H’ (Prepaid Labor Hours)  A yellow letter ‘H’ indicates there are available prepaid labor hours that have not yet been applied.‘L’ (Layaways) - A blue letter ‘L’ indicates a layaway has already been committed to the customer.</text>
+
+	<text>Special Order Indicators</text>
+</content>
+
+	<related-content>The  C in garths record  indicates that the special order has been received and is committed </related-content>
+</section>
+<section type="slide" position="18">
+	<title></title>
+
+	<content></content>
+
+	<related-content>The  C in garths record  indicates that the special order has been received and is committed </related-content>
+</section>
+<section type="slide" position="19">
+	<title></title>
+
+	<content></content>
+
+	<related-content>we could also see more detail by clicking So/Layaway/ Prepaid </related-content>
+</section>
+<section type="slide" position="20">
+	<title></title>
+
+	<content>
+	<text>4</text>
+
+	<text>NOTE: Any Special Order Orginating from a Work Order can ONLY be Delivered to a Work Order and CANNOT be Delivered Over the Counter</text>
+</content>
+
+	<related-content>From here we can see, when the order was placed , the vendor used or if there is any on hand quantity. The yellow triangle is an indicator that there is a message above.  For service special orders you will see the work order _  Note any special order originating from a work order can only be delivered to a work order and can not be delivered over the counter. </related-content>
+</section>
+<section type="slide" position="21">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="22">
+	<title>Deliver Special Order</title>
+
+	<content></content>
+
+	<related-content>Now that we know the fender has arrived we can install it on the bike. </related-content>
+</section>
+<section type="slide" position="23">
+	<title></title>
+
+	<content></content>
+
+	<related-content>Once the special order has been received the  technician is ready to install the fender.  we need to deliver the special order to the work order. to complete this from the parts list </related-content>
+</section>
+<section type="slide" position="24">
+	<title></title>
+
+	<content></content>
+
+	<related-content>its important to note that we need to *deliver*  the special order to the work order. to accomplish this click ADD </related-content>
+</section>
+<section type="slide" position="25">
+	<title></title>
+
+	<content></content>
+
+	<related-content>select the event</related-content>
+</section>
+<section type="slide" position="26">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="27">
+	<title></title>
+
+	<content></content>
+
+	<related-content>and click the Deliver special order button </related-content>
+</section>
+<section type="slide" position="28">
+	<title></title>
+
+	<content></content>
+
+	<related-content>tag the item </related-content>
+</section>
+<section type="slide" position="29">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="30">
+	<title></title>
+
+	<content></content>
+
+	<related-content>and then click deliver selected items</related-content>
+</section>
+<section type="slide" position="31">
+	<title></title>
+
+	<content></content>
+
+	<related-content>You can see  the Special order  indicator has changed from an S to a D  on the Parts on work order screen. which indicates the part has been delivered Now the part has been delivered to the work order and the work order can be complete as normal.  Note that the only time it is acceptable to leave the special order indicator as an S is when the part has not yet been received at the dealership and will be delivered at a later date. </related-content>
+</section>
+<section type="slide" position="32">
+	<title>Try It! Create A Special Order</title>
+
+	<content></content>
+</section>
+<section type="slide" position="33">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="34">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="35">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="36">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="37">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="38">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="39">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="40">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="41">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="42">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="43">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="44">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="45">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="46">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="47">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="48">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="49">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="50">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="51">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="52">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="53">
+	<title></title>
+
+	<content>
+	<text>If you have any questions, please contact the HDDS Training Department </text>
+
+	<text>(800) 428-5090 option 4HDDS-Training@Harley-Davidson.com</text>
+</content>
+
+	<related-content>Thank you for completing this HDDS-TV discussing how create a special Order from a work order. 
+
+For additional information on the topics covered in this training, please refer to the basics guide or quick reference guides.
+
+As always if you have any questions regarding this training or any of our services, please contact the HDDS training department.</related-content>
+</section>
+</document-metadata>
